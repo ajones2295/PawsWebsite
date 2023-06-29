@@ -1486,6 +1486,7 @@ section {
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
+  background: url("../img/dog.mp4") top;
   width: 100%;
   background-size: cover;
   position: relative;
@@ -1497,16 +1498,17 @@ section {
   font-size: 64px;
   font-weight: 700;
   margin-bottom: 20px;
-  color: var(--color-secondary);
+  color: #ffffff;
   font-family: var(--font-primary);
 }
 
 .hero h2 span {
-  color: var(--color-primary);
+  color:#ffffff;
+  
 }
 
 .hero p {
-  color: #4f4f5a;
+  color: #ffffff;
   font-weight: 400;
   margin-bottom: 30px;
 }
