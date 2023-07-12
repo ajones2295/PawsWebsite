@@ -710,12 +710,7 @@ section {
 # Why Us Section
 --------------------------------------------------------------*/
 .why-us{
-  background: url("../img/dog5.jpg") top;
-  width: 100%;
-  background-size: cover;
-  position: relative;
-  min-height: 60vh;
-  padding: 160px 0 60px 0;
+  
   
 }
 .why-us .why-box {
