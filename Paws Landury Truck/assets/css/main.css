@@ -567,6 +567,10 @@ section {
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
+.about {
+  background-color: #f6f4f4;
+}
+
 .about .about-img {
   min-height: 500px;
 }
@@ -596,7 +600,7 @@ section {
 }
 
 .about .call-us p {
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 700;
   color: var(--color-primary);
 }
@@ -705,6 +709,15 @@ section {
 /*--------------------------------------------------------------
 # Why Us Section
 --------------------------------------------------------------*/
+.why-us{
+  background: url("../img/dog5.jpg") top;
+  width: 100%;
+  background-size: cover;
+  position: relative;
+  min-height: 60vh;
+  padding: 160px 0 60px 0;
+  
+}
 .why-us .why-box {
   padding: 30px;
   background: var(--color-primary);
