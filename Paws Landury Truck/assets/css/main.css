@@ -568,7 +568,7 @@ section {
 # About Section
 --------------------------------------------------------------*/
 .about {
-  background-color: #f6f4f4;
+  background  #f6f4f4;
 }
 
 .about .about-img {
@@ -1493,7 +1493,7 @@ section {
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-  background: url("../img/dog.mp4") top;
+  background: url("../img/pexels-kelly-lacy-5473764\ \(2160p\).mp4");
   width: 100%;
   background-size: cover;
   position: relative;
