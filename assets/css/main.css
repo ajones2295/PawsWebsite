@@ -1354,6 +1354,10 @@ section {
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
+.contact {
+  background-color: #000;
+}
+
 .contact .info-item {
   background: #f4f4f4;
   padding: 30px;
