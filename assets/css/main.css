@@ -778,10 +778,13 @@ section {
   margin: 0 0 30px 0;
   font-family: var(--font-secondary);
 }
+.why-us p {
+  color: #ffffff;
+}
 
 .why-us .icon-box p {
   font-size: 15px;
-  color: #6c757d;
+  color: #f1f4f6;
 }
 
 @media (min-width: 1200px) {
@@ -1384,8 +1387,11 @@ section {
   font-weight: 700;
   margin: 0 0 5px 0;
 }
-
+.contact p {
+  color: #ffffff;
+}
 .contact .info-item p {
+  color: #000000b6;
   padding: 0;
   margin: 0;
   line-height: 24px;
