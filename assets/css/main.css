@@ -33,7 +33,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  cursor: url("img/paw/png");
+  cursor: url("assets/img/paw.png"), auto;
   font-family: var(--font-default);
   color: var(--color-default);
 }
