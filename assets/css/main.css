@@ -711,17 +711,22 @@ section {
 # Why Us Section
 --------------------------------------------------------------*/
 .why-us {
-  background-color: #000000;
+  background-color: #000;
+  
 }
   
 
 .why-us .why-box {
-  padding: 30px;
-  background: var(--color-primary);
+  align-items:center;
+  padding: 50px;
+  background:#e60b0b;
   color: #fff;
 }
-
+.why-us h3{
+  align-items: center;
+}
 .why-us .why-box h3 {
+  align-items: center;
   font-weight: 700;
   font-size: 34px;
   margin-bottom: 30px;
@@ -774,10 +779,12 @@ section {
 }
 
 .why-us .icon-box h4 {
+  color: #000b06;
   font-size: 20px;
   font-weight: 400;
   margin: 0 0 30px 0;
-  font-family: var(--font-secondary);
+  font-style: italic;
+  font-family:serif;
 }
 .why-us p {
   color: #ffffff;
