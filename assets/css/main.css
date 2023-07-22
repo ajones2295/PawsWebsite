@@ -627,7 +627,10 @@ section {
 .about .content p:last-child {
   margin-bottom: 0;
 }
-
+.about .about-box{
+  border: #059652;
+}
+ 
 .about .play-btn {
   width: 94px;
   height: 94px;
@@ -1478,30 +1481,43 @@ section {
   font-size: 14px;
 }
 
-.contact .php-email-form input:focus,
-.contact .php-email-form textarea:focus {
+.contact button input:focus,
+.contact button textarea:focus {
   border-color: var(--color-primary);
 }
 
-.contact .php-email-form input {
+.contact button input {
   height: 48px;
 }
 
-.contact .php-email-form textarea {
+.contact button textarea {
   padding: 10px 12px;
 }
 
+
+.contact button {
+  background: var(--color-primary);
+  border: 100;
+  padding: 12px 40px;
+  color: #ffffff;
+  transition: 0.4s;
+  border-radius: 50px;
+}
 .contact .php-email-form button[type=submit] {
   background: var(--color-primary);
   border: 0;
   padding: 12px 40px;
-  color: #fff;
+  color: #0e1601;
   transition: 0.4s;
   border-radius: 50px;
 }
 
-.contact .php-email-form button[type=submit]:hover {
-  background: #ec2727;
+.contact button:hover {
+  background: #0c0000;
+  color: #ed1010;
+  border: 35 ;
+  padding: ;
+  border-radius: ;
 }
 
 @keyframes animate-loading {
