@@ -264,13 +264,25 @@ section {
   border-color: #eee;
 }
 
+#header .logo {
+  font-size: 10px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
 .header .logo img {
   max-height: 40px;
   margin-right: 6px;
 }
 
 .header .logo h1 {
-  font-size: 28px;
+  font-size: 15px;
+  letter-spacing: 0;
+  padding: 0;
+  line-height: 1;
   font-weight: 700;
   color: #000;
   margin: 0;
