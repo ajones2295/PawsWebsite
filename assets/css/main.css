@@ -1553,7 +1553,7 @@ section {
 --------------------------------------------------------------*/
 .hero {
   background: url("../img/dog.mp4");
-  width: 100%;
+  width: 100% auto;
   height: auto;
   background-size: cover;
   position: relative;
