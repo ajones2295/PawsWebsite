@@ -587,7 +587,7 @@ section {
 # About Section
 --------------------------------------------------------------*/
 .about {
-  background  #f6f4f4;
+  background: auto;
 }
 
 .about .about-img {
