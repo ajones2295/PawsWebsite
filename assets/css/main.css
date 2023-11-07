@@ -1552,7 +1552,7 @@ section {
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-  background: url("");
+  background:#000b06;
   width: 100% auto;
   height: auto;
   background-size: cover;
