@@ -3,7 +3,7 @@ document.getElementById("contact-form").addEventListener("submit", function(even
 
   let formData = new FormData(this);
 
-  fetch("https://formsubmit.co/ivoinestrachan242@gmail.com", {
+  fetch("https://formsubmit.co/ashlynnsjones@yahoo.com", {
       method: "POST",
       body: formData
   })
